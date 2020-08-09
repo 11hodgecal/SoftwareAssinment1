@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe.config
+C:\Users\User\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe
+C:\Users\User\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\User\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.exe
+C:\Users\User\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe.config
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.csprojAssemblyReference.cache
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.exe
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.pdb
+R:\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe.config
+R:\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe
+R:\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.pdb
+R:\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.csprojAssemblyReference.cache
+R:\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.exe
+R:\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\User\Desktop\assinment projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe.config
+C:\Users\User\Desktop\assinment projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe
+C:\Users\User\Desktop\assinment projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\User\Desktop\assinment projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.csprojAssemblyReference.cache
+C:\Users\User\Desktop\assinment projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.exe
+C:\Users\User\Desktop\assinment projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\callu\Desktop\Latest projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe.config
+C:\Users\callu\Desktop\Latest projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.exe
+C:\Users\callu\Desktop\Latest projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Debug\Assinment_Task_2_quiz.pdb
+C:\Users\callu\Desktop\Latest projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.csprojAssemblyReference.cache
+C:\Users\callu\Desktop\Latest projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.exe
+C:\Users\callu\Desktop\Latest projects\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Debug\Assinment_Task_2_quiz.pdb

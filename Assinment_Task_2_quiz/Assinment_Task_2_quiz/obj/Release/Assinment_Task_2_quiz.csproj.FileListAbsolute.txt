@@ -1,0 +1,6 @@
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Release\Assinment_Task_2_quiz.exe.config
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Release\Assinment_Task_2_quiz.exe
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\bin\Release\Assinment_Task_2_quiz.pdb
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Release\Assinment_Task_2_quiz.csprojAssemblyReference.cache
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Release\Assinment_Task_2_quiz.exe
+C:\Users\Grimreaperiii\Desktop\Assiment software development\Assinment_Task_2_quiz\Assinment_Task_2_quiz\obj\Release\Assinment_Task_2_quiz.pdb

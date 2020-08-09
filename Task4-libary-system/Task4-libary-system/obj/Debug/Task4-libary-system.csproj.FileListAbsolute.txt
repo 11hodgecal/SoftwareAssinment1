@@ -1,0 +1,6 @@
+C:\Users\callu\Desktop\Latest projects\Task4-libary-system\Task4-libary-system\obj\Debug\Task4-libary-system.csprojAssemblyReference.cache
+C:\Users\callu\Desktop\Latest projects\Task4-libary-system\Task4-libary-system\bin\Debug\Task4-libary-system.exe.config
+C:\Users\callu\Desktop\Latest projects\Task4-libary-system\Task4-libary-system\bin\Debug\Task4-libary-system.exe
+C:\Users\callu\Desktop\Latest projects\Task4-libary-system\Task4-libary-system\bin\Debug\Task4-libary-system.pdb
+C:\Users\callu\Desktop\Latest projects\Task4-libary-system\Task4-libary-system\obj\Debug\Task4-libary-system.exe
+C:\Users\callu\Desktop\Latest projects\Task4-libary-system\Task4-libary-system\obj\Debug\Task4-libary-system.pdb
